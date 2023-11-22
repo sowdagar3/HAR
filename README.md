@@ -2,4 +2,4 @@
 Human Activity Recognition  
 
 References:  
-[Kaggle](https://www.kaggle.com/sharjeelmazhar)
+[Using LSTM and CNN for video analysis](https://www.kaggle.com/sharjeelmazhar)
