@@ -2,4 +2,4 @@
 Human Activity Recognition  
 
 References:  
-(sharjeelmazhar)[https://www.kaggle.com/sharjeelmazhar]
+[sharjeelmazhar](https://www.kaggle.com/sharjeelmazhar)
