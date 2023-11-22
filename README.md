@@ -1,4 +1,5 @@
 # HAR
-Human Activity Recognition
+Human Activity Recognition  
+
 References:  
-(https://www.kaggle.com/sharjeelmazhar)[https://www.kaggle.com/sharjeelmazhar]
+(sharjeelmazhar)[https://www.kaggle.com/sharjeelmazhar]
